@@ -1,0 +1,48 @@
+.container {
+    max-width: 1512px;
+    max-height: 736px;
+    /* position: fixed; */
+}
+    
+.main-nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 20px;
+    
+    list-style: none;
+    background-color: rgba(34, 30, 30, 0.493);
+    color: white;
+}
+
+body{
+    margin: 0;
+}
+.name h1 {
+    font-size: 4rem;
+    justify-items: center;
+    align-items: center;
+    margin: 0 auto;
+}
+h3 {
+    font-size: 2rem;
+}
+.name{
+    align-items: center;
+    justify-items: center;
+    margin: 0 auto;
+}
+.page {
+    margin: 0 auto;
+}
+.second-page{
+    background-color: black;
+    color: white;
+}
+.phonepic {
+    /* justify-items: center; */
+    align-items: center;
+}
+/* .flex {
+    display: flex;
+} */
